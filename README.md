@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋,I am Abdullah Sayid
+# Hi there, I am Abdullah Sayid
 #### I am a MERN stack web developer 
 ![I am a MERN stack web developer ](https://i.ibb.co/9cMk5fR/e5f1e14c-7a35-4252-86b4-5c6b6d1a22d5.png)
 
