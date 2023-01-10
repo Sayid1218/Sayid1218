@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 
 ### Recently I completed my bachelor's in Computer Science and Engineering from Daffodil International University. I have worked on some Full stack projects. I have completed a full-stack web development course with Jhankar Mahbub from Programming Hero. I have the ability to do hard work. This GitHub told you why you should hire me.
 
-Skills:  REACT / JS / HTML5/ CSS3/JavaScript/MongoDB/NodeJS/ExpressJS/ES6
+# Skills: 
+# . REACT
+# . HTML5
+# . CSS3
+# . JavaScript
+# . MongoDB
+# . NodeJS
+# . ExpressJS
+# . ES6
 
 - 🔭 I’m currently working on Quick Solution 
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayid1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mohammad-sayid-247716204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdullah.Sayid.1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Abdullah.Sayid.1218/)  
