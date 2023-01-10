@@ -28,14 +28,16 @@ Here are some ideas to get you started:
 #### . NodeJS
 #### . ExpressJS
 #### . ES6
-#### .NodeJs
-#### .ExpressJs
+#### . NodeJs
+#### . ExpressJs
+
+## Working Exprence:
 
 ### Currently I'm working on my project <a href="https://quick-solution-2.web.app/">Quick Solution</a>.
 
 ## You can find me on:
 
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayid1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mohammad-sayid-247716204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdullah.Sayid.1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Abdullah.Sayid.1218/)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayid1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mohammad-sayid-247716204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdullah.Sayid.1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Abdullah.Sayid.1218/)  
 
 
  <h2 align="left">Languages and Tools:</h3>
