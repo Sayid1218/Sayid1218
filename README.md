@@ -23,6 +23,17 @@ Recently I completed my bachelor's in Computer Science and Engineering from Daff
 Skills:  REACT / JS / HTML5/ CSS3/JavaScript/MongoDB/NodeJS/ExpressJS/ES6
 
 - 🔭 I’m currently working on Quick Solution 
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayid1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mohammad-sayid-247716204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdullah.Sayid.1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Abdullah.Sayid.1218/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayid1218)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayid1218&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayid1218)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayid1218)  
+
+![Profile views](https://gpvc.arturio.dev/Sayid1218)  
 
 
 
