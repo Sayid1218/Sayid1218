@@ -7,7 +7,7 @@
 ### Software Quality Assurance || Manual Testing || Postman || Automation Testing || Test Case Writing || Test Plan Writing || Performance Testing || API Testing ||
 
 
-# About Me:
+## :information_source: About Me:
 ### I'm Abdullah Mohammad Sayid Boiah. I recently graduated from Daffodil International University with a degree in computer science and engineering. The IT training facility is teaching me about software quality assurance. I am now available for employment by your company as a QA. I now understand what manual and automated testing are. I am knowledgeable about project management, problem solving, programming, and other computer-related topics. Working with your QA team will be fantastic.
 
 ## 🌐 Socials:
