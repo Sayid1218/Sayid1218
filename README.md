@@ -3,8 +3,8 @@
 </div>
 
 
-# Abdullah Mohammod Sayid Boiah
-## Software Quality Assurance || Manual Testing || Postman || Automation Testing || Test Case Writing || Test Plan Writing || Performance Testing || API Testing ||
+# :man_with_gua_pi_mao: Abdullah Mohammod Sayid Boiah
+### Software Quality Assurance || Manual Testing || Postman || Automation Testing || Test Case Writing || Test Plan Writing || Performance Testing || API Testing ||
 
 
 # About Me:
