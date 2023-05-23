@@ -1,61 +1,23 @@
+<h1 align="center">Hi 👋, I'm Abdullah Mohammod Sayid Boiah</h1>
+<h3 align="center">Software Quality Assurance Engineer</h3>
 
-<!--
-**Sayid1218/Sayid1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayid1218&label=Profile%20views&color=0e75b6&style=flat" alt="sayid1218" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayid1218" alt="sayid1218" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I am Abdullah Sayid
-#### I am a MERN stack web developer 
-![I am a MERN stack web developer ](https://i.ibb.co/9cMk5fR/e5f1e14c-7a35-4252-86b4-5c6b6d1a22d5.png)
+- 👨‍💻 All of my projects are available at [https://abdullah-sayid-portfolio.netlify.app/](https://abdullah-sayid-portfolio.netlify.app/)
 
-### Recently I completed my bachelor's in Computer Science and Engineering from Daffodil International University. I have worked on some Full stack projects. I have completed a full-stack web development course with Jhankar Mahbub from Programming Hero. I have the ability to do hard work. This GitHub told you why you should hire me.
+- 📫 How to reach me **abdullahsayid1218@gmail.com**
 
-## Skills: 
-#### . REACT
-#### . HTML5
-#### . CSS3
-#### . JavaScript
-#### . MongoDB
-#### . NodeJS
-#### . ExpressJS
-#### . ES6
-#### . NodeJs
-#### . ExpressJs
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZB9qJ1pgFTaYCJra53zqaiRtBaKAMqon/view?usp=sharing](https://drive.google.com/file/d/1ZB9qJ1pgFTaYCJra53zqaiRtBaKAMqon/view?usp=sharing)
 
-## Working Experience:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-mohammod-sayid-boiah-b58594267" height="30" width="40" /></a>
+<a href="https://fb.com/abdullah.sayid.1218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.sayid.1218" height="30" width="40" /></a>
+</p>
 
-### Currently I'm working on my project <a href="https://quick-solution-2.web.app/">Quick Solution</a>.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-## You can find me on:
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayid1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mohammad-sayid-247716204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdullah.Sayid.1218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Abdullah.Sayid.1218/)  
-
-
- <h2 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayid1218)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayid1218&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayid1218)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayid1218)  
-
-![Profile views](https://gpvc.arturio.dev/Sayid1218)  
-
-
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayid1218&show_icons=true&locale=en" alt="sayid1218" /></p>
