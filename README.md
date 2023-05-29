@@ -1,5 +1,5 @@
 # :raising_hand_man: Hello Sir,
-![image](https://github.com/Sayid1218/Sayid1218/assets/97175166/93a94fd3-969b-49ed-aa40-0b10e72c5ba6)
+
 <img align="center" alt="Coding" src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif">
 
 ## :technologist: Skills: 
