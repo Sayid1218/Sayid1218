@@ -4,7 +4,7 @@
 ## Software Quality Assurance || Manual Testing || Postman || Automation Testing || Test Case Writing || Test Plan Writing || Performance Testing || API Testing ||
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
+[![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
 ### :information_source: About Me:
 ### 
 
@@ -19,6 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayid1218&theme=hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 
