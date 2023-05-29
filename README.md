@@ -1,9 +1,9 @@
 # :raising_hand_man: Hello Sir,
 ![Blue Gradient Modern LinkedIn Banner (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/faab370b-f9da-42c3-96f5-9be4a8c447a3)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ## :technologist: Skills: 
 ### Software Quality Assurance:
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-#### Manual Testing
+
 * Test Case Writing
 * Test Plan Writing
 * Test Matrix Writing
