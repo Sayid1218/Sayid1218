@@ -8,7 +8,7 @@
 ## :information_source: About Me:
 ### 
 
-## 🌐 Socials:
+## 🌐 Follow Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267) 
 
 # 💻 Tech Stack:
