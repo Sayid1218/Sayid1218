@@ -1,5 +1,5 @@
 # :raising_hand_man: Hello Sir,
-<img align="Center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif">
+<img align="Center" alt="Coding" src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif">
 
 ## :technologist: Skills: 
 ### Software Quality Assurance:
