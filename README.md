@@ -2,6 +2,7 @@
 ![Blue Gradient Modern LinkedIn Banner (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/faab370b-f9da-42c3-96f5-9be4a8c447a3)
 ## :technologist: Skills: 
 ### Software Quality Assurance:
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 #### Manual Testing
 * Test Case Writing
 * Test Plan Writing
@@ -13,7 +14,7 @@
 * Api Testing With Postman
 * Api Testing With Jmeter
 * Performance Testing With Jmeter
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 [![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
 ### :information_source: About Me:
