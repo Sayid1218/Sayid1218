@@ -1,6 +1,6 @@
 # :raising_hand_man: Hello Sir,
 ![Blue Gradient Modern LinkedIn Banner (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/faab370b-f9da-42c3-96f5-9be4a8c447a3)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif">
 ## :technologist: Skills: 
 ### Software Quality Assurance:
 
