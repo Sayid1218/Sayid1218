@@ -1,7 +1,6 @@
-<div align="center">
+
   ![image](https://github.com/Sayid1218/Sayid1218/assets/97175166/3ba27bcc-2462-43e9-a880-fc91242fe8a7)
 
-</div>
 
 
 # :man_with_gua_pi_mao: Abdullah Mohammod Sayid Boiah
