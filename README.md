@@ -4,7 +4,7 @@
 
 ## :technologist: Skills: 
 ### Software Quality Assurance:
-
+```
 * Test Case Writing
 * Test Plan Writing
 * Test Matrix Writing
@@ -15,7 +15,7 @@
 * Api Testing With Postman
 * Api Testing With Jmeter
 * Performance Testing With Jmeter
-
+```
 
 [![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
 ### :information_source: About Me:
