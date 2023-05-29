@@ -4,6 +4,7 @@
 ### Software Quality Assurance || Manual Testing || Postman || Automation Testing || Test Case Writing || Test Plan Writing || Performance Testing || API Testing ||
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
 ## :information_source: About Me:
 ### 
 
