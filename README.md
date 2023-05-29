@@ -1,8 +1,6 @@
-
+# :raising_hand_man: Hello Sir,
 ![image](https://github.com/Sayid1218/Sayid1218/assets/97175166/92f5a173-4a22-4456-bea4-1b7c03216a84)
 
-
-# :man_with_gua_pi_mao: Abdullah Mohammod Sayid Boiah
 ### Software Quality Assurance || Manual Testing || Postman || Automation Testing || Test Case Writing || Test Plan Writing || Performance Testing || API Testing ||
 
 
