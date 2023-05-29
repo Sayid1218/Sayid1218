@@ -1,13 +1,7 @@
 # :raising_hand_man: Hello Sir,
 
 ![Blue Gradient Modern LinkedIn Banner (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/3c3aae8d-0cca-4b77-b2c0-4576e1a6bb16)
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+#000000
 ## :technologist: Skills: 
 ### Software Quality Assurance:
 ```
