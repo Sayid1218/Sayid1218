@@ -27,16 +27,16 @@
 
 ## :clipboard: Projects
 #### Manual Testing:
-Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Project-1).
+* Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Project-1).
 #### API Testing (Postman):
-1. Quick Solution API testing
+* Quick Solution API testing
 (https://github.com/Sayid1218/Quick-Solution-API-Test-Report).
-2. Student booking System API testing 
+* Student booking System API testing 
 (https://github.com/Sayid1218/Project1-Api).
 #### Performance Testing (JMeter):
-1. Quick Solution Performance testing
+* Quick Solution Performance testing
 (https://github.com/Sayid1218/Performance_Testing_Project_1)
-2. Student booking System Performance testing 
+* Student booking System Performance testing 
 (https://github.com/Sayid1218/Performance_Testing_Project_2)
 
 ## :information_source: About Me:
