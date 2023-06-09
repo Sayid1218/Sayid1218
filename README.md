@@ -44,7 +44,7 @@ Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Proj
 
 ### 🌐 Follow Me:
 
-TECHNICAL SKILLS
+### TECHNICAL SKILLS
 Languages: C, PHP, JavaScript, Python.
 Platform: Windows, Linux, Ubuntu.
 Web Development: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, NodeJS, React, MongoDB.
