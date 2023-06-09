@@ -1,7 +1,7 @@
 # :raising_hand_man: Hello Sir,
 
 ![Blue Gradient Modern LinkedIn Banner (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/3c3aae8d-0cca-4b77-b2c0-4576e1a6bb16)
-### :technologist: Skills: 
+### :technologist: Skills
 #### Software Quality Assurance:
 ```
 * Test Case Writing
@@ -14,11 +14,27 @@
 * Api Testing With Postman
 * Api Testing With Jmeter
 * Performance Testing With Jmeter
+* Github
 ```
 
 [![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
+
+### Projects
+#### Manual Testing:
+Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Project-1).
+#### API Testing (Postman):
+1. Quick Solution API testing
+(https://github.com/Sayid1218/Quick-Solution-API-Test-Report).
+2. Student booking System API testing 
+(https://github.com/Sayid1218/Project1-Api).
+#### Performance Testing (JMeter):
+1. Quick Solution Performance testing
+(https://github.com/Sayid1218/Performance_Testing_Project_1)
+2. Student booking System Performance testing 
+(https://github.com/Sayid1218/Performance_Testing_Project_2)
+
 ### :information_source: About Me:
-### 
+* 
 
 ### 🌐 Follow Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267) 
