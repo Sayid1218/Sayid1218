@@ -46,16 +46,16 @@ Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Proj
 * Ability of Problem Solving.
 
 ## Education
-#### Bachelor Of Computer Science & Engineering
+### Bachelor Of Computer Science & Engineering
 ##### Daffodil International University 
 (2019 – 2022)
 ##### CGPA: 3.30
 
-#### Higher Secondary School Certificate (Science)
+### Higher Secondary School Certificate (Science)
 ##### Cantonment Public School and College, BUSMS
 (2016 – 2018)
 ##### GPA: 5.00
-#### Secondary School Certificate (Science)
+### Secondary School Certificate (Science)
 ##### Cantonment Public School and College, BUSMS
 (2014 – 2016)
 ##### GPA: 4.11
