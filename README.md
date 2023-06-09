@@ -40,10 +40,10 @@ Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Proj
 (https://github.com/Sayid1218/Performance_Testing_Project_2)
 
 ### :information_source: About Me:
-• Flexible
-• Hard Worker
-• Responsible
-• Ability of Problem Solving.
+* Flexible
+* Hard Worker
+* Responsible
+* Ability of Problem Solving.
 
 ### 💻 TECHNICAL SKILLS
 #### Languages: C, PHP, JavaScript, Python.
