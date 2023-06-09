@@ -5,6 +5,7 @@
 - :email: abdullahsayid12182gmail.com
 - :globe_with_meridians: https://abdullah-sayid-portfolio.netlify.app/
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267) 
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
 
 ### :technologist: Skills
 #### Software Quality Assurance:
@@ -42,7 +43,7 @@ Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Proj
 * 
 
 ### 🌐 Follow Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
+
 TECHNICAL SKILLS
 Languages: C, PHP, JavaScript, Python.
 Platform: Windows, Linux, Ubuntu.
