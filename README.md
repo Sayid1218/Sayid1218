@@ -1,5 +1,10 @@
 # :raising_hand_man: Hello Sir,
-
+ABDULLAH MOHAMMOD SAYID BOIAH
+:house: House# 05, Road# 03, Kadirabad Housing, Mohammodpur, Dhaka
+:phone: +8801580394350
+:email: abdullahsayid12182gmail.com
+:globe_with_meridians: https://abdullah-sayid-portfolio.netlify.app/
+:link: https://www.linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267/
 ![Blue Gradient Modern LinkedIn Banner (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/3c3aae8d-0cca-4b77-b2c0-4576e1a6bb16)
 ### :technologist: Skills
 #### Software Quality Assurance:
