@@ -19,7 +19,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
 
-### Projects
+### :clipboard: Projects
 #### Manual Testing:
 Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Project-1).
 #### API Testing (Postman):
