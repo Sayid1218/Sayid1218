@@ -46,10 +46,10 @@ Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Proj
 * Ability of Problem Solving.
 
 ## EDUCATION HISTORY
-- Bachelor Of Computer Science & Engineering
-`` Daffodil International University 
+#### Bachelor Of Computer Science & Engineering
+##### Daffodil International University 
 (2019 – 2022)
-CGPA: 3.30
+##### CGPA: 3.30
 `
 - Higher Secondary School Certificate (Science)
  Cantonment Public School and College, BUSMS
