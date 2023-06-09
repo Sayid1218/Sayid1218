@@ -45,7 +45,7 @@ Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Proj
 * Responsible
 * Ability of Problem Solving.
 
-## Education
+## :student: Education
 ### Bachelor Of Computer Science & Engineering
 ##### Daffodil International University 
 (2019 – 2022)
