@@ -27,7 +27,8 @@
 
 ## :clipboard: Projects
 #### Manual Testing:
-* Quick Solution manual testing ( https://github.com/Sayid1218/Manual-Testing-Project-1).
+* Quick Solution manual testing (https://github.com/Sayid1218/Manual-Testing-Project-1).
+* Probashi App manual testing (https://github.com/Sayid1218/Probashi_App_Test_Report).
 #### API Testing (Postman):
 * Quick Solution API testing
 (https://github.com/Sayid1218/Quick-Solution-API-Test-Report).
