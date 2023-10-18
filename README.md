@@ -21,7 +21,9 @@
 * Api Testing With Jmeter
 * Performance Testing With Jmeter
 * Github
-* Selenium With Java.
+* Selenium With Java
+* Appium  With Java
+* Api Testing With Cypress
 
 
 [![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
