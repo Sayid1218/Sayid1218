@@ -30,11 +30,11 @@
 
 ## :clipboard: Projects
 #### Manual Testing:
-* Quick Solution manual testing (https://github.com/Sayid1218/Manual-Testing-Project-1).
-* Probashi App manual testing (https://github.com/Sayid1218/Probashi_App_Test_Report).
+* Quick Solution manual testing (https://github.com/Sayid1218/Manual-Testing-Project-1)
+* Probashi App manual testing (https://github.com/Sayid1218/Probashi_App_Test_Report)
 #### API Testing (Postman):
 * Quick Solution API testing
-(https://github.com/Sayid1218/Quick-Solution-API-Test-Report).
+(https://github.com/Sayid1218/Quick-Solution-API-Test-Report)
 * Student booking System API testing 
 (https://github.com/Sayid1218/Project1-Api).
 #### Performance Testing (JMeter):
@@ -42,6 +42,14 @@
 (https://github.com/Sayid1218/Performance_Testing_Project_1)
 * Student booking System Performance testing 
 (https://github.com/Sayid1218/Performance_Testing_Project_2)
+#### Mobile App Testing (Appium)
+• Todoist android app testing
+(https://github.com/Sayid1218/TodoistAppTest)
+#### Web Automation (Selenium):
+• Lazada web automation
+(https://github.com/Sayid1218/lazada.com-Automation-Project)
+• Web automation with Excel operation
+(https://github.com/Sayid1218/AutomationInternshipTest-1)
 
 ## :information_source: About Me:
 * Flexible
