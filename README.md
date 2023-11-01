@@ -43,12 +43,12 @@
 * Student booking System Performance testing 
 (https://github.com/Sayid1218/Performance_Testing_Project_2)
 #### Mobile App Testing (Appium)
-• Todoist android app testing
+* Todoist android app testing
 (https://github.com/Sayid1218/TodoistAppTest)
 #### Web Automation (Selenium):
-• Lazada web automation
+* Lazada web automation
 (https://github.com/Sayid1218/lazada.com-Automation-Project)
-• Web automation with Excel operation
+* Web automation with Excel operation
 (https://github.com/Sayid1218/AutomationInternshipTest-1)
 
 ## :information_source: About Me:
