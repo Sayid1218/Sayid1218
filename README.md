@@ -33,18 +33,12 @@
 * AlVcard-Visiting profile management system. (Main)
 
 ### :student: EDUCATION HISTORY 
-#### Bachelor Of Computer Science & Engineering
-##### Daffodil International University 
-(2019 – 2022)
-##### CGPA: 3.30
-#### Higher Secondary School Certificate (Science)
-##### Cantonment Public School and College, BUSMS
-(2016 – 2018)
-##### GPA: 5.00
-#### Secondary School Certificate (Science)
-##### Cantonment Public School and College, BUSMS
-(2014 – 2016)
-##### GPA: 4.11
+##### Bachelor Of Computer Science & Engineering  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  (2019 – 2022)
+##### Daffodil International University  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  CGPA: 3.30
+#### Higher Secondary School Certificate (Science)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  (2016 – 2018)
+##### Cantonment Public School and College, BUSMS  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  GPA: 5.00
+#### Secondary School Certificate (Science)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  (2014 – 2016)
+##### Cantonment Public School and College, BUSMS  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  GPA: 4.11
 
 
 ## :technologist: Skills
