@@ -1,11 +1,6 @@
 # :raising_hand_man: Hello,
 ![ezgif com-video-to-gif (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/6923d407-86c0-45c9-9211-28348a609c85)
-- :house: House# 05, Road# 03, Kadirabad Housing, Mohammodpur, Dhaka
-- :phone: +8801580394350
-- :email: abdullahsayid12182gmail.com
-- :globe_with_meridians: [Web Site](https://abdullah-sayid-portfolio.netlify.app/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267) 
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
+- :house: House# 05, Road# 03, Kadirabad Housing, Mohammodpur, Dhaka :phone: +8801580394350 :email: abdullahsayid12182gmail.com :globe_with_meridians: [Web Site](https://abdullah-sayid-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
 ### 💼 EXPERIENCE 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – Now                  
 #### 🏢 Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka  
@@ -37,26 +32,17 @@
 ##### Daffodil International University  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ CGPA: 3.30
 ##### Higher Secondary School Certificate (Science) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (2016 – 2018)
 ##### Cantonment Public School and College, BUSMS $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ GPA: 5.00
-##### Secondary School Certificate (Science)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (2014 – 2016)
+##### Secondary School Certificate (Science)  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (2014 – 2016)
 ##### Cantonment Public School and College, BUSMS $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ GPA: 4.11
 
+## :technologist: TESTING SKILLS 
+* API testing with Postman. 
+* Load and stress testing with JMeter. 
+* Exploratory Testing. 
+* SQL. 
+* Agile 
+* Smoke & Regression Testing
 
-## :technologist: Skills
-#### Software Quality Assurance:
-* Test Case Writing
-* Test Plan Writing
-* Test Matrix Writing
-* Bug Report Writing
-* Mind Mapping
-* Functional Testing
-* Non-functional Testing
-* Api Testing With Postman
-* Api Testing With Jmeter
-* Performance Testing With Jmeter
-* Github
-* Selenium With Java
-* Appium  With Java
-* Api Testing With Cypress
 
 
 
