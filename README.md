@@ -14,7 +14,7 @@
 * Software User Documentation Writing for Attendly. 
 * ClickUp for reporting bugs. 
 * UI & Responsive testing in different screen for phone, tablet and pc. 
-Worked Projects: 
+##### Worked Projects: 
 * Attendly.io (Main). 
 * Sendout.Ai (Partial)
   
@@ -26,15 +26,29 @@ Worked Projects:
 * Collaborate with testing and development team. 
 * Customer ticket support and debugging at Aorasoft.com. 
 * Reported Bugs at Asana.   
-Worked Projects: 
+##### Worked Projects: 
 * InfixAdvocate - Lawyer Office Management System. 
 * Infix LMS - Learning Management System. 
 * InfixEdu School - School Management System Software. (Main) 
 * AlVcard-Visiting profile management system. (Main)
 
+### :student: EDUCATION HISTORY 
+#### Bachelor Of Computer Science & Engineering
+##### Daffodil International University 
+(2019 – 2022)
+##### CGPA: 3.30
+#### Higher Secondary School Certificate (Science)
+##### Cantonment Public School and College, BUSMS
+(2016 – 2018)
+##### GPA: 5.00
+#### Secondary School Certificate (Science)
+##### Cantonment Public School and College, BUSMS
+(2014 – 2016)
+##### GPA: 4.11
+
+
 ## :technologist: Skills
 #### Software Quality Assurance:
-
 * Test Case Writing
 * Test Plan Writing
 * Test Matrix Writing
@@ -49,6 +63,7 @@ Worked Projects:
 * Selenium With Java
 * Appium  With Java
 * Api Testing With Cypress
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Sayid1218&icon=0&color=12)](https://visitcount.itsvg.in)
@@ -82,20 +97,7 @@ Worked Projects:
 * Responsible
 * Ability of Problem Solving.
 
-## :student: Education
-### Bachelor Of Computer Science & Engineering
-##### Daffodil International University 
-(2019 – 2022)
-##### CGPA: 3.30
 
-### Higher Secondary School Certificate (Science)
-##### Cantonment Public School and College, BUSMS
-(2016 – 2018)
-##### GPA: 5.00
-### Secondary School Certificate (Science)
-##### Cantonment Public School and College, BUSMS
-(2014 – 2016)
-##### GPA: 4.11
 
 
 ## 💻 TECHNICAL SKILLS
