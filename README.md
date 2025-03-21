@@ -12,14 +12,14 @@
 #### 🏢 Prospect Engine                                        
 ⚲ Sector 10, Uttara, Dhaka  
 
-▪ Automation Testing with Cypress for Attendly.io. 
-▪ Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
-▪ Software User Documentation Writing for Attendly. 
-▪ ClickUp for reporting bugs. 
-▪ UI & Responsive testing in different screen for phone, tablet and pc. 
-Worked Projects: 
-▪ Attendly.io (Main). 
-▪ Sendout.Ai (Partial)
+* Automation Testing with Cypress for Attendly.io. 
+* Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
+* Software User Documentation Writing for Attendly. 
+* ClickUp for reporting bugs. 
+* UI & Responsive testing in different screen for phone, tablet and pc. 
+##### Worked Projects: 
+* Attendly.io (Main). 
+* Sendout.Ai (Partial)
 
 
 
