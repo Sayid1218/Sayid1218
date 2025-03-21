@@ -14,7 +14,7 @@
 * Software User Documentation Writing for Attendly. 
 * ClickUp for reporting bugs. 
 * UI & Responsive testing in different screen for phone, tablet and pc. 
-##### Worked Projects: 
+Worked Projects: 
 * Attendly.io (Main). 
 * Sendout.Ai (Partial)
   
@@ -26,7 +26,7 @@
 * Collaborate with testing and development team. 
 * Customer ticket support and debugging at Aorasoft.com. 
 * Reported Bugs at Asana.   
-##### Worked Projects: 
+Worked Projects: 
 * InfixAdvocate - Lawyer Office Management System. 
 * Infix LMS - Learning Management System. 
 * InfixEdu School - School Management System Software. (Main) 
