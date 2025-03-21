@@ -19,7 +19,7 @@
 * Sendout.Ai (Partial)
   
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ Jul 2023 – Jul 2024 
-#### 🏢 Spondon IT $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ 40 Feet, Mohammadpur, Dhaka
+#### 🏢 Spondon IT $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ 40 Feet, Mohammadpur, Dhaka
 * Manual Testing in CodeCanyon based products. 
 * Software user documentation writing. 
 * UI & Responsive Testing. 
