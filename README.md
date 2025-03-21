@@ -21,7 +21,21 @@
 * Attendly.io (Main). 
 * Sendout.Ai (Partial)
 
-
+#### 👨🏻‍💻 Software Quality Assurance Engineer                   
+🗓️ August 2024 – Now 
+#### 🏢 Spondon IT                                        
+⚲ 40 Feet, Mohammadpur, Dhaka
+* Manual Testing in CodeCanyon based products. 
+* Software user documentation writing. 
+* UI & Responsive Testing. 
+* Collaborate with testing and development team. 
+* Customer ticket support and debugging at Aorasoft.com. 
+* Reported Bugs at Asana.   
+##### Worked Projects: 
+* InfixAdvocate - Lawyer Office Management System. 
+* Infix LMS - Learning Management System. 
+* InfixEdu School - School Management System Software. (Main) 
+* AlVcard-Visiting profile management system. (Main)
 
 ## :technologist: Skills
 #### Software Quality Assurance:
