@@ -7,6 +7,9 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267) 
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
 ### 💼 EXPERIENCE 
+#### Software Quality Assurance Engineer || August 2024 – Now 
+#### Prospect Engine || Sector 10, Uttara, Dhaka                                                                                                            
+
 
 
 ## :technologist: Skills
