@@ -1,6 +1,6 @@
 # :raising_hand_man: Hello,
 ![ezgif com-video-to-gif (1)](https://github.com/Sayid1218/Sayid1218/assets/97175166/6923d407-86c0-45c9-9211-28348a609c85)
-- :house: House# 05, Road# 03, Kadirabad Housing, Mohammodpur, Dhaka 
+- :house: House# 05, Road# 03, Sector 10, Uttara, Dhaka 
 - :phone: +8801580394350 
 - :email: abdullahsayid12182gmail.com
 - :globe_with_meridians: [Web Site](https://abdullah-sayid-portfolio.netlify.app/) 
