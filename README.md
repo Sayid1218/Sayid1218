@@ -8,7 +8,7 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
 ### 💼 EXPERIENCE 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – Now                  
-#### 🏢 Prospect Engine LLC $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka  
+#### 🏢 Prospect Engine LLC $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka  
 * Automation Testing with Cypress for Attendly.io. 
 * Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
 * Software User Documentation Writing for Attendly. 
