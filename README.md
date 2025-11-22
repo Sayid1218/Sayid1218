@@ -6,19 +6,9 @@
 - :globe_with_meridians: [Web Site](https://abdullah-sayid-portfolio.netlify.app/) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohammod-sayid-boiah-b58594267)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
-### 💼 EXPERIENCE 
-#### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ November 2024 – Now                  
-#### 🏢 Prospect Engine LLC $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka  
-* Automation Testing with Cypress for Attendly.io. 
-* Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
-* Software User Documentation Writing for Attendly. 
-* ClickUp for reporting bugs. 
-* UI & Responsive testing in different screen for phone, tablet and pc. 
-##### Worked Projects: 
-* Attendly.io (Main). 
-* Sendout.Ai (Partial)
-  
-#### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2023 – October 2024 
+### 💼 EXPERIENCE  
+
+#### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2023 – Now
 #### 🏢 Spondon IT $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ 40 Feet, Mohammadpur, Dhaka
 * Manual Testing in CodeCanyon based products. 
 * Software user documentation writing. 
