@@ -8,7 +8,19 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
 ### 💼 EXPERIENCE  
 
-#### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2023 – Now
+
+#### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – Now 
+#### 🏢 Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
+▪ Automation Testing with Cypress for Attendly.io. 
+▪ Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
+▪ Software User Documentation Writing for Attendly. 
+▪ ClickUp for reporting bugs. 
+▪ UI & Responsive testing in different screen for phone, tablet and pc. 
+##### Worked Projects: 
+▪ Attendly.io (Main). 
+▪ Sendout.Ai (Partial)
+
+#### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ July 2023 – July 2024 
 #### 🏢 Spondon IT $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ 40 Feet, Mohammadpur, Dhaka
 * Manual Testing in CodeCanyon based products. 
 * Software user documentation writing. 
