@@ -1,6 +1,6 @@
 # :raising_hand_man: Hello,
 ![PurpleWhiteMarketingManagerModernProfileLinkedInArticleCoverImage-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9)
-- :house: House# 05, Road# 03, Sector 10, Uttara, Dhaka 
+- :house: House# 05, Road# 07, Kaderabad Housing, Mohammodpur, Dhaka 1207 
 - :phone: +8801580394350 
 - :email: abdullahsayid12182gmail.com
 - :globe_with_meridians: [Web Site](https://abdullah-sayid-portfolio.netlify.app/) 
@@ -9,7 +9,7 @@
 ### 💼 EXPERIENCE  
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ January 2026 – Now
-#### 🏢 ERA Info Tech Limited  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
+#### 🏢 ERA Info Tech Limited  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Polton, Dhaka
 
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – December 2025 
