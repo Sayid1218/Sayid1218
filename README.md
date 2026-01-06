@@ -9,7 +9,7 @@
 ### 💼 EXPERIENCE  
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ January 2026 – Now
-#### <img width="28" height="20" alt="download (1)" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" /> ERA Info Tech Limited  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Polton, Dhaka
+#### <img width="25" height="25" alt="download (1)" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" /> ERA Info Tech Limited  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Polton, Dhaka
 
 
 
