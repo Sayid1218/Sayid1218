@@ -13,9 +13,8 @@
 
 
 
-
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – December 2025 
-#### 🏢 Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
+#### <img width="25" height="25" alt="download (2)" src="https://github.com/user-attachments/assets/2986c8bb-ac65-4eb7-b824-74f70c04896b" /> Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
 * Automation Testing with Cypress for Attendly.io. 
 * Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
 * Software User Documentation Writing for Attendly. 
@@ -26,7 +25,7 @@
 * Sendout.Ai (Partial)
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ July 2023 – July 2024 
-#### 🏢 Spondon IT $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ 40 Feet, Mohammadpur, Dhaka
+#### <img width="28" height="28" alt="download (3)" src="https://github.com/user-attachments/assets/ca4c65a4-0934-45e2-a0ea-26830d778464" /> Spondon IT $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ 40 Feet, Mohammadpur, Dhaka
 * Manual Testing in CodeCanyon based products. 
 * Software user documentation writing. 
 * UI & Responsive Testing. 
