@@ -8,7 +8,7 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah.Sayid.1218) 
 ### 💼 EXPERIENCE  
 
-<img width="25" height="72" alt="ERA-Logo" src="https://github.com/user-attachments/assets/1d5679a7-95ea-4cae-909e-1c7d7d02ff68" /> #### Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ January 2026 – Now
+<img width="50" height="72" alt="ERA-Logo" src="https://github.com/user-attachments/assets/1d5679a7-95ea-4cae-909e-1c7d7d02ff68" /> #### Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ January 2026 – Now
 #### 🏢 ERA Info Tech Limited  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Polton, Dhaka
 
 
