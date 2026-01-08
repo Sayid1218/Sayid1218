@@ -10,8 +10,9 @@
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ January 2026 – Now
 #### <img width="25" height="25" alt="download (1)" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" /> ERA Info Tech Limited  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Polton, Dhaka
-
-
+* Azure DevOps.
+* Manual Testing in Banking Solution.
+  
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – December 2025 
 #### <img width="25" height="25" alt="download (2)" src="https://github.com/user-attachments/assets/2986c8bb-ac65-4eb7-b824-74f70c04896b" /> Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
