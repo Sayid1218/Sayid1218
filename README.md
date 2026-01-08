@@ -15,7 +15,7 @@
   
 
 #### 👨🏻‍💻 Software Quality Assurance Engineer $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 🗓️ August 2024 – December 2025 
-#### <img width="25" height="25" alt="download (2)" src="https://github.com/user-attachments/assets/2986c8bb-ac65-4eb7-b824-74f70c04896b" /> Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
+#### <img width="25" height="25" alt="download (2)" src="https://github.com/user-attachments/assets/2986c8bb-ac65-4eb7-b824-74f70c04896b" /> Prospect Engine $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ⚲ Sector 10, Uttara, Dhaka
 * Automation Testing with Cypress for Attendly.io. 
 * Manual Testing in Attendly.io - Trac driving management software for a UK based client. 
 * Software User Documentation Writing for Attendly. 
