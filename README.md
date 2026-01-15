@@ -9,8 +9,6 @@
 <img align="center" width="1200" alt="Coding" src="https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9">
 <br><br>
 
-
-![PurpleWhiteMarketingManagerModernProfileLinkedInArticleCoverImage-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9)
 - :house: House# 05, Road# 07, Kaderabad Housing, Mohammodpur, Dhaka 1207 
 - :phone: +8801580394350 
 - :email: abdullahsayid12182gmail.com
