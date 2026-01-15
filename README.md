@@ -6,7 +6,7 @@
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
-<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center" alt="Coding" src="https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9">
 <br><br>
 
 
