@@ -6,7 +6,8 @@
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
-
+<img align="center" alt="Coding" src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://github-production-user-asset-6210df.s3.amazonaws.com/97175166/531873176-116aa45d-d501-4035-8a47-0d74644ff3e9.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260115T044148Z&X-Amz-Expires=300&X-Amz-Signature=6f791daf8dc5a6848e82c5054f7b174e0cda223afbc0dd69c76999f919b4b956&X-Amz-SignedHeaders=host)">
+<br><br>
 ![PurpleWhiteMarketingManagerModernProfileLinkedInArticleCoverImage-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9)
 - :house: House# 05, Road# 07, Kaderabad Housing, Mohammodpur, Dhaka 1207 
 - :phone: +8801580394350 
