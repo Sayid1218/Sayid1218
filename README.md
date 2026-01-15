@@ -7,24 +7,6 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-- 🔭 I’m currently open to a new Job
-
-- 🌱 I’m currently learning **Devops**
-
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
-
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
-
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **I think I'm funny**
-
-
 # :raising_hand_man: Hello,
 ![PurpleWhiteMarketingManagerModernProfileLinkedInArticleCoverImage-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9)
 - :house: House# 05, Road# 07, Kaderabad Housing, Mohammodpur, Dhaka 1207 
@@ -87,6 +69,23 @@
 ##### Platform: Windows, Linux, Ubuntu.
 ##### Web Development: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, NodeJS, React, MongoDB.
 ##### Software: Visual Studio code, Microsoft Visual Studio, Code Blocks, Canva, Filmore.
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently open to a new Job
+
+- 🌱 I’m currently learning **Devops**
+
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
+
+- 📫 How to reach me **supunnanayakkara01@gmail.com**
+
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+
+- ⚡ Fun fact **I think I'm funny**
 
 ### 📑 REFERENCE 
 ##### Sajjat Hossain 
