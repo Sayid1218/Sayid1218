@@ -63,8 +63,9 @@ A passionate Software Quality Assurance Engineer from Bangladesh 🇧🇩 with h
 # 💼 Professional Experience
 
 ## 👨🏻‍💻 Associate Engineer — Software Quality Assurance
-<img width="25" height="25" alt="ERA InfoTech" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" />
 **ERA InfoTech Ltd.**  
+<img width="25" height="25" alt="ERA InfoTech" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" />
+
 📍 Dhaka, Bangladesh  
 🗓️ **January 2026 – Present**
 
