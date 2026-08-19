@@ -63,7 +63,7 @@ A passionate Software Quality Assurance Engineer from Bangladesh 🇧🇩 with h
 # 💼 Professional Experience
 
 ## 👨🏻‍💻 Associate Engineer — Software Quality Assurance
-<img width="25" height="25" alt="ERA InfoTech" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" /> **ERA InfoTech Ltd.**  
+<img width="15" height="15" alt="ERA InfoTech" src="https://github.com/user-attachments/assets/9ad3516a-6e2a-4918-8ae0-dbc7af696aa3" /> **ERA InfoTech Ltd.**  
 
 
 📍 Dhaka, Bangladesh  
@@ -91,7 +91,7 @@ A passionate Software Quality Assurance Engineer from Bangladesh 🇧🇩 with h
 ---
 
 ## 👨🏻‍💻 Software Quality Assurance Engineer
-<img width="25" height="25" alt="Prospect Engine" src="https://github.com/user-attachments/assets/2986c8bb-ac65-4eb7-b824-74f70c04896b" />
+<img width="15" height="15" alt="Prospect Engine" src="https://github.com/user-attachments/assets/2986c8bb-ac65-4eb7-b824-74f70c04896b"/> 
 **Prospect Engine LLC**  
 📍 Sector 10, Uttara, Dhaka  
 🗓️ **November 2024 – December 2024**
@@ -111,7 +111,7 @@ A passionate Software Quality Assurance Engineer from Bangladesh 🇧🇩 with h
 ---
 
 ## 👨🏻‍💻 Software Quality Assurance Engineer
-<img width="25" height="25" alt="Spondon IT" src="https://github.com/user-attachments/assets/ca4c65a4-0934-45e2-a0ea-26830d778464" />
+<img width="15" height="15" alt="Spondon IT" src="https://github.com/user-attachments/assets/ca4c65a4-0934-45e2-a0ea-26830d778464" />
 **Spondon IT**  
 📍 Mohammadpur, Dhaka  
 🗓️ **August 2023 – October 2024**
