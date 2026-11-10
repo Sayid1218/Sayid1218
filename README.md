@@ -25,7 +25,7 @@ Software Quality Assurance Engineer | Banking & FinTech QA | Test Automation | A
 </p>
 
 <p align="center">
-  <img width="100%" alt="Abdullah Sayid Banner" src="https://github.com/user-attachments/assets/116aa45d-d501-4035-8a47-0d74644ff3e9"/>
+  <img width="100%" alt="Abdullah Sayid Banner" src="https://github.com/user-attachments/assets/5e6c3260-66fa-4c29-b406-fd0a7af5a657"/>
 </p>
 
 ---
